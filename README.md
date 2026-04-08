@@ -1,1 +1,1 @@
-Hey! I'm Siddharth Sheth, a first year at Northeastern University studying Computer Science and Business Administration.
+Hey! I'm Siddharth Sheth, a rising Second Year at Northeastern University studying Computer Science and Economics.
