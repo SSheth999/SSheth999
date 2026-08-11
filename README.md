@@ -12,11 +12,9 @@
 
 ---
 
-Driven **CS + Econ** student at Northeastern. I like building **RL environments, evals,
-observability infra, agentic frameworks, and harness engineering** — the tooling that
-lets AI agents be measured, trusted, and made better. I'm equally drawn to **software as a
-means for philanthropy**: transparency tools, STEM access, things that move the needle for
-real people.
+Driven **CS + Econ** student at Northeastern. Interested in **RL environments, evals,
+observability infra, agentic frameworks, and harness engineering** I'm equally drawn to **software as a
+means for philanthropy**.
 
 📩 **sidd0926 [at] gmail [dot] com** — feel free to reach out!
 
