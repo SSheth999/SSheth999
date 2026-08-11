@@ -34,8 +34,8 @@ observability infra, agentic frameworks, and harness engineering**. I'm equally 
 ## 🚀 Currently
 
 - **Software Engineer Intern @ [InstaLILY AI](https://instalily.ai) (Series B):** building
-  the eval + harness platform behind *Lily*, an autonomous coding agent, plus agentic
-  copilots for industrial distributors.
+  the eval + optimization platform behind *Lily*, an AI Forward Deployed Engineer for the physical goods economy, plus agentic
+  systems for industrial distributors.
 - **CS + Economics @ Northeastern University.**
 
 ## 💼 Experience highlights
