@@ -13,50 +13,42 @@
 ---
 
 Driven **CS + Econ** student at Northeastern. Interested in **RL environments, evals,
-observability infra, agentic frameworks, and harness engineering** I'm equally drawn to **software as a
-means for philanthropy**.
+observability infra, agentic frameworks, and harness engineering**. I'm equally drawn to
+**software as a means for philanthropy**.
 
-📩 **sidd0926 [at] gmail [dot] com** — feel free to reach out!
+📩 **sidd0926 [at] gmail [dot] com** · feel free to reach out!
 
 ---
 
 ## 🔭 What I work on
 
-- **Agent evaluation & harness engineering** — Harbor benchmark suites, verifiable-reward
+- **Agent evaluation & harness engineering:** Harbor benchmark suites, verifiable-reward
   rubrics, LLM-as-judge grading, and optimizing the *wrapper* around a frozen model to
   squeeze out real gains.
-- **RL for LLMs** — GRPO / RLVR / DPO fine-tuning, reward design, and pass@k evaluation.
-- **Agentic frameworks & infra** — Google ADK, MCP, ReAct/LangGraph, tool-calling loops,
+- **RL for LLMs:** GRPO / RLVR / DPO fine-tuning, reward design, and pass@k evaluation.
+- **Agentic frameworks & infra:** Google ADK, MCP, ReAct/LangGraph, tool-calling loops,
   streaming voice (Pipecat/WebRTC), and the observability (Datadog, Sentry) around them.
-- **RAG & retrieval systems** — hybrid semantic search over large corpora, vector DBs,
+- **RAG & retrieval systems:** hybrid semantic search over large corpora, vector DBs,
   graph memory (Memgraph/Neo4j LPG).
 
 ## 🚀 Currently
 
-- **Software Engineer Intern @ [InstaLILY AI](https://instalily.ai) (Series B)** — building
+- **Software Engineer Intern @ [InstaLILY AI](https://instalily.ai) (Series B):** building
   the eval + harness platform behind *Lily*, an autonomous coding agent, plus agentic
   copilots for industrial distributors.
-- **CS + Economics @ Northeastern University** (B.S., May 2028).
-
-## 🧪 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[Margin Engine](https://github.com/SSheth999/margin-engine)** | A controlled experiment testing whether *failure-mode-matched* budget interventions beat generic ones for AI agents — 349 real runs across all 89 Terminal-Bench 2 tasks on GPT-5.6 via E2B sandboxes. (Honest negative result — generic downshift wins.) | Python, FastAPI, E2B, Terminal-Bench, OpenAI |
-| **TestimonySearch** | Hybrid RAG + semantic search over **500+ congressional hearings → 237K+ queryable chunks**, with an MCP server exposing 12 retrieval tools. Software for civic transparency. | Python, FastAPI, React, Pinecone, PostgreSQL, MCP |
-| **Pitch Exchange** | A single-process trading exchange with closed-form **O(1) LMSR** pricing and an agentic correlation arbitrageur over OpenAI tool-calling. | TypeScript, Next.js, WebSockets, OpenAI |
+- **CS + Economics @ Northeastern University.**
 
 ## 💼 Experience highlights
 
-- **InstaLILY AI** — Architected an eval package mining merged PRs into rollback-contract
+- **InstaLILY AI:** Architected an eval package mining merged PRs into rollback-contract
   Harbor tasks; a harness optimization lifted a held-out codebase **40% → 55% solve rate
   (+37.5%)** with the model frozen. Built an agentic voice copilot (Google ADK, 28→39
   tools, Gemini 2.5 streaming, Pipecat/WebRTC) that rolled out **5 → 70 branch locations**.
   Featured in InstaLILY Research: *"Build the Environment, Optimize the Harness."*
-- **Aviro (YC P26)** — **25.4% pass@1 at $1.10** inference cost, outranking all 9 frontier
+- **Aviro (YC P26):** **25.4% pass@1 at $1.10** inference cost, outranking all 9 frontier
   baselines, via 40 verifiable-reward rubrics + GRPO fine-tuning of gpt-oss-120b through
   OpenAI's RFT API; co-authored the C⁴ enterprise-search benchmark.
-- **Northwestern TIILT Lab** — Lead researcher on multimodal CV STEM tooling delivered to
+- **Northwestern TIILT Lab:** Lead researcher on multimodal CV STEM tooling delivered to
   **1,500+ students** (Black Kids Project); IEEE MIT URTC presenter (20% acceptance).
 
 ## 🛠️ Tech
