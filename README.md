@@ -74,10 +74,5 @@ observability infra, agentic frameworks, and harness engineering**. I'm equally 
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white">
 </p>
 
-## 🏆 Awards
-
-IEEE MIT URTC Presenter (20% acceptance) · Disrupt Finnovate 2nd Place
-
 ---
-
-<p align="center"><i>Off the keyboard: competitive dance, guitar, piano, music theory, and tennis. 🎶🎾</i></p>
+<p align="center"><i>Interests: competitive dance, guitar, piano, music theory, and tennis. 🎶🎾</i></p>
