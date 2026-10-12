@@ -75,4 +75,4 @@ observability infra, agentic frameworks, and harness engineering**. I'm equally 
 </p>
 
 ---
-<p align="center"><i>Interests: competitive dance, guitar, piano, music theory, and tennis. 🎶🎾</i></p>
+
